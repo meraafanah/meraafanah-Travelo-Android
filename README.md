@@ -32,10 +32,7 @@ This project was a result of successful team collaboration. While we worked toge
 - **Testing:** Conducted UI testing to ensure responsiveness across different screen sizes.
 
 ## 📸 Screenshots
-*(Pro-Tip: Add your app screenshots here to showcase your work!)*
-| Splash Screen | Login Page | Main Dashboard |
-|---|---|---|
-| ![Splash](https://via.placeholder.com/150) | ![Login](https://via.placeholder.com/150) | ![Main](https://via.placeholder.com/150) |
+![Screen_recording_20260312_211020-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/1090bb54-7c97-4344-b02b-33b94fa63ffd)
 
 ## 🚀 Getting Started
 1. **Clone the repository:**
